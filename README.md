@@ -10,3 +10,4 @@ Look at the testHRW() function for how to add more data points to test.
 Consistent Hashing:
 Print the different server node indexes and stored keys with print_keys_and_nodes method.
 
+python node_ring.py is runnable.
